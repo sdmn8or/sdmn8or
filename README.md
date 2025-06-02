@@ -13,7 +13,7 @@
 - 🤔 I’m exploring **AI tools, futuristic UI/UX design, and cyberpunk web aesthetics**.
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, and server hosting setups**.
 - 📫 How to reach me:  
-  📧 sadmaansaad@gmail.com  
+  📧 sadmaan365@gmail.com  
   🌐 [sdmn8or.github.io](https://sdmn8or.github.io)  
   🕹️ [@sdmn8or on all socials](https://facebook.com/sdmn8or)  
 
