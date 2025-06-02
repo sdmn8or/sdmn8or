@@ -1,41 +1,82 @@
-<section id="about" class="py-16 text-white bg-[#0d0d0d]">
-  <div class="container mx-auto px-6">
-    <h2 class="text-4xl font-bold mb-10">
-      <span class="text-orange-500">⚡</span> Who Am I?
-    </h2>
-    <div class="bg-[#121212] rounded-xl p-6 shadow-xl border border-[#222]">
-      <p><span class="text-green-400 font-semibold">Name:</span> Sadmaan Al Saad</p>
-      <p><span class="text-green-400 font-semibold">Alias:</span> sdmn8or</p>
-      <p><span class="text-green-400 font-semibold">Role:</span> Full-stack Web Developer</p>
-      <p><span class="text-green-400 font-semibold">Location:</span> Earth 2.0 (Bangladesh)</p>
-      <p><span class="text-green-400 font-semibold">Mission:</span> Build digital worlds, craft clean code, & conquer the grid.</p>
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>sdmn8or | Digital Dev</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/devicon/devicon.min.css" rel="stylesheet">
+    <style>
+      body {
+        background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+        font-family: 'Courier New', Courier, monospace;
+      }
+      .glow {
+        text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 15px #0ff;
+      }
+      .glass {
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+      }
+      .icon:hover {
+        transform: scale(1.15);
+        transition: transform 0.3s ease;
+      }
+    </style>
+  </head>
+  <body class="text-white">
+    <!-- Hero -->
+    <section class="min-h-screen flex flex-col justify-center items-center text-center px-4">
+      <h1 class="text-5xl md:text-7xl font-bold glow mb-4">sdmn8or</h1>
+      <p class="text-xl md:text-2xl text-purple-400">Full-stack Web Developer & Digital Architect</p>
+      <p class="text-sm mt-2">Mission: Build digital worlds, entertain minds, and conquer the grid.</p>
+    </section>
 
-    <div class="mt-12">
-      <h3 class="text-2xl font-semibold mb-4">⚙️ Tech Stack</h3>
-      <div class="flex flex-wrap gap-6 items-center justify-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" class="w-12 h-12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" class="w-12 h-12 bg-white p-1 rounded" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" class="w-12 h-12" />
+    <!-- Skills -->
+    <section class="py-12 px-6 bg-black/20 glass">
+      <h2 class="text-3xl font-bold mb-6 text-center glow">🚀 Tech Arsenal</h2>
+      <div class="grid grid-cols-4 md:grid-cols-8 gap-6 justify-items-center">
+        <i class="devicon-html5-plain colored text-5xl icon"></i>
+        <i class="devicon-css3-plain colored text-5xl icon"></i>
+        <i class="devicon-javascript-plain colored text-5xl icon"></i>
+        <i class="devicon-tailwindcss-plain colored text-5xl icon"></i>
+        <i class="devicon-bootstrap-plain colored text-5xl icon"></i>
+        <i class="devicon-react-original colored text-5xl icon"></i>
+        <i class="devicon-nodejs-plain colored text-5xl icon"></i>
+        <i class="devicon-git-plain colored text-5xl icon"></i>
       </div>
-    </div>
+    </section>
 
-    <div class="mt-12">
-      <h3 class="text-2xl font-semibold mb-4">🚀 Tags</h3>
-      <div class="flex flex-wrap gap-4 justify-center text-sm">
-        <span class="bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 text-white px-4 py-2 rounded-full shadow-lg animate-pulse">Web Dev</span>
-        <span class="bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-600 text-white px-4 py-2 rounded-full shadow-lg animate-pulse">Programmer</span>
-        <span class="bg-gradient-to-r from-lime-500 to-green-500 text-white px-4 py-2 rounded-full shadow-lg animate-pulse">Minimalist</span>
-        <span class="bg-gradient-to-r from-orange-500 to-red-500 text-white px-4 py-2 rounded-full shadow-lg animate-pulse">Technologist</span>
-        <span class="bg-gradient-to-r from-gray-700 to-gray-900 text-white px-4 py-2 rounded-full shadow-lg animate-pulse">Creator</span>
+    <!-- About -->
+    <section class="py-12 px-6">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="text-3xl font-bold mb-4 glow">⚡ Who Am I?</h2>
+        <div class="text-left bg-black/20 p-6 rounded-xl glass">
+          <p><span class="text-green-400">Name:</span> Sadmaan Al Saad</p>
+          <p><span class="text-green-400">Alias:</span> sdmn8or</p>
+          <p><span class="text-green-400">Role:</span> Full-stack Web Developer</p>
+          <p><span class="text-green-400">Location:</span> Earth 2.0 (Bangladesh)</p>
+          <p><span class="text-green-400">Mission:</span> Build digital worlds, entertain minds, & conquer the grid.</p>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center py-6 text-sm text-gray-500">
+      Built by <span class="text-purple-300">sdmn8or</span> — Glitched in the Grid 💻
+    </footer>
+
+    <script>
+      gsap.from(".icon", {
+        opacity: 0,
+        y: 30,
+        duration: 0.6,
+        stagger: 0.1,
+        ease: "power2.out"
+      });
+    </script>
+  </body>
+</html>
