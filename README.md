@@ -1,93 +1,48 @@
-<!-- Banner with Typing Animation (Dark/Futuristic Vibe) -->
-<p align="center">
-  <img height="70" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=800&color=00F5A0&center=true&width=600&height=80&lines=Sadmaan+%7C+sdmn8or;Frontend+Web+Developer;3D+UI+%26+Animation+Enthusiast;from+Earth+2.0" alt="Typing SVG"/>
-</p>
+# 👋 Hi, I’m Sadmaan Al Saad (aka sdmn8or)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=232526,0F2027,00F5A0&height=3&section=header"/>
-</p>
+💻 I’m a passionate web developer and creative tech explorer from Bangladesh.  
+🚀 I build cool websites, host Minecraft servers, and create gaming + anime content.  
+🎮 Gamer by heart | 🎥 YouTuber | 🧠 Tech Enthusiast  
 
-## 👤 About Me
+---
 
-```js
-const coder = {
-  name: 'Sadmaan',
-  alias: 'sdmn8or',
-  planet: 'Earth 2.0',
-  code: [
-    'JavaScript',
-    'HTML5',
-    'CSS3',
-    'React',
-    'Next.js',
-    'Three.js',
-    'WebGL',
-    'Shaders',
-    'Figma',
-    'Vite'
-  ],
-  style: 'Futuristic, Animated, 3D',
-  passion: [
-    'Next-gen Web Apps',
-    'Procedural Animation',
-    'Digital 3D Experiences',
-    'Immersive UIs'
-  ]
-};
+## 🧠 About Me
+- 🔭 I’m currently working on **Kraftohost**, a Minecraft hosting service platform.
+- 🌱 I’m currently learning **React** and **Full-Stack Development** at Creative IT Institute.
+- 👯 I’m looking to collaborate on **web projects, open source tools, or gaming utilities**.
+- 🤔 I’m exploring **AI tools, futuristic UI/UX design, and cyberpunk web aesthetics**.
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, and server hosting setups**.
+- 📫 How to reach me:  
+  📧 sadmaansaad@gmail.com  
+  🌐 [sdmn8or.github.io](https://sdmn8or.github.io)  
+  🕹️ [@sdmn8or on all socials](https://facebook.com/sdmn8or)  
 
-## 🚀 Tech Arsenal
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,threejs,blender,figma,git,vite,nodejs" />
-</p>
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-<!-- Animated Code Example (GIF/SVG/CodePen) -->
-### 🦾 JS in Action
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpvZHo2aHZrYWUyN3pputh3ZHg3bmg4cDRoa2E2dXphZGM5MWozayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B8WcFd8edCzSKQ1POQ/giphy.gif" width="350"/>
-</p>
+## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=sdmn8or&theme=radical&hide_border=true)  
+![Sadmaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdmn8or&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdmn8or&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://codepen.io/collection/AWKEpe" target="_blank"><img src="https://img.shields.io/badge/CodePen-LiveJS-blue?style=for-the-badge&logo=codepen"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/3D%20Model-LiveDemo-29F6FF?style=for-the-badge"/></a>
-</p>
+---
 
-<!-- 3D Modeling section -->
-## 🪐 3D Vibes
+## ⚡ Fun Facts
+- I make Minecraft servers for fun (and business 😎)
+- I run multiple YouTube channels: *SDMN Talks*, *CrispyFang*
+- I love **cyberpunk-themed** designs and glitchy aesthetics!
+- Favorite anime? Solo Leveling and Attack on Titan!
 
-> Exploring new dimensions in the browser — from interactive code to living, breathing digital 3D.
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.png" width="56" />
-</p>
-
-```js
-import * as THREE from 'three';
-// Imagine: 🛰️ Real-time rendered worlds — coming soon...
-```
-
-<!-- GitHub Stats -->
-## 📊 Code Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdmn8or&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=sdmn8or&theme=radical&hide_border=true"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sdmn8or&theme=radical&margin-w=10&row=1&column=4" />
-</p>
-
-<!-- Contact/Socials -->
-## 📡 Connect
-
-🌐 [Portfolio](#)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5A0?logo=linkedin&logoColor=white&style=for-the-badge)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-2C5364?logo=twitter&logoColor=white&style=for-the-badge)](#)
-[![Mail](https://img.shields.io/badge/Mail-Earth_2.0-007ACC?style=for-the-badge&logo=gmail)](#)
-
-<p align="center">
-  <img 
-
-
+> ⚡ "Stay crispy, stay creative. Coding is my power move." – Boss
 
