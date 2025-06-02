@@ -1,11 +1,10 @@
-<!-- Futuristic Banner -->
+<!-- Banner with Typing Animation (Dark/Futuristic Vibe) -->
 <p align="center">
-  <img height="200" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=00F5A0&center=true&multiline=true&width=600&height=80&lines=Sadmaan+%7C+sdmn8or;Web+Dev+.js+%7C+3D+Futurist" alt="Typing SVG"/>
+  <img height="70" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=800&color=00F5A0&center=true&width=600&height=80&lines=Sadmaan+%7C+sdmn8or;Frontend+Web+Developer;3D+UI+%26+Animation+Enthusiast;from+Earth+2.0" alt="Typing SVG"/>
 </p>
 
-<!-- Neon Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2027,2C5364,00F5A0&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=232526,0F2027,00F5A0&height=3&section=header"/>
 </p>
 
 ## 👤 About Me
@@ -15,16 +14,26 @@ const coder = {
   name: 'Sadmaan',
   alias: 'sdmn8or',
   planet: 'Earth 2.0',
-  code: ['JavaScript', 'Three.js', 'WebGL', 'React', 'Shaders'],
+  code: [
+    'JavaScript',
+    'HTML5',
+    'CSS3',
+    'React',
+    'Next.js',
+    'Three.js',
+    'WebGL',
+    'Shaders',
+    'Figma',
+    'Vite'
+  ],
   style: 'Futuristic, Animated, 3D',
   passion: [
     'Next-gen Web Apps',
     'Procedural Animation',
-    'Digital 3D Sculpting',
+    'Digital 3D Experiences',
     'Immersive UIs'
   ]
 };
-```
 
 ## 🚀 Tech Arsenal
 
@@ -82,39 +91,3 @@ import * as THREE from 'three';
 
 
 
-<!-- Banner with Typing Animation (Dark/Futuristic Vibe) -->
-<p align="center">
-  <img height="70" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=800&color=00F5A0&center=true&width=600&height=80&lines=Sadmaan+%7C+sdmn8or;Frontend+Web+Developer;3D+UI+%26+Animation+Enthusiast;from+Earth+2.0" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=232526,0F2027,00F5A0&height=3&section=header"/>
-</p>
-
-## 👤 About Me
-
-```js
-const coder = {
-  name: 'Sadmaan',
-  alias: 'sdmn8or',
-  planet: 'Earth 2.0',
-  code: [
-    'JavaScript',
-    'HTML5',
-    'CSS3',
-    'React',
-    'Next.js',
-    'Three.js',
-    'WebGL',
-    'Shaders',
-    'Figma',
-    'Vite'
-  ],
-  style: 'Futuristic, Animated, 3D',
-  passion: [
-    'Next-gen Web Apps',
-    'Procedural Animation',
-    'Digital 3D Experiences',
-    'Immersive UIs'
-  ]
-};
