@@ -78,5 +78,4 @@ import * as THREE from 'three';
 [![Mail](https://img.shields.io/badge/Mail-Earth_2.0-007ACC?style=for-the-badge&logo=gmail)](#)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F5A0,2C5364,0F2027&height=3&section=footer"/>
-</p>
+  <img 
